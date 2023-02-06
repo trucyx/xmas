@@ -10516,6 +10516,7 @@ rules:
   - DOMAIN-SUFFIX,12306.com,Domestic
   - DOMAIN-SUFFIX,126.net,Domestic
   - DOMAIN-SUFFIX,163.com,Domestic
+  - DOMAIN-SUFFIX,trip.com,Domestic
   - DOMAIN-SUFFIX,360.cn,Domestic
   - DOMAIN-SUFFIX,360.com,Domestic
   - DOMAIN-SUFFIX,360buy.com,Domestic
